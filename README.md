@@ -12,7 +12,7 @@ I started with **Python and MySQL** during school and am now expanding my skills
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
 * 🎓 Computer Science student
 * 🐍 Currently working with **Python**
@@ -25,27 +25,27 @@ I started with **Python and MySQL** during school and am now expanding my skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ **Tech Stack**
 
-### 💻 Languages & Database
+### 💻 **Languages & Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python MySQL" />
 </p>
 
-### 🌐 Web Development
+### 🌐 **Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
 </p>
 
-### 🔧 Tools
+### 🔧 **Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
 </p>
 
-### 🤖 Exploring
+### 🤖 **Exploring**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI ML" />
@@ -53,7 +53,7 @@ I started with **Python and MySQL** during school and am now expanding my skills
 
 ---
 
-## 📌 What I'm Working On
+## 📌 **What I'm Working On**
 
 I'm currently focused on:
 
@@ -69,17 +69,17 @@ I'm currently focused on:
 
 ---
 
-## 🏆 Hackathons & Projects
+## 🏆 **Hackathons & Projects**
 
 I'm actively building my portfolio through projects and hackathons.
 
-### 🚧 Projects coming soon...
+### 🚧 **Projects Coming Soon...**
 
 I'm working toward building projects that demonstrate what I learn rather than simply collecting technologies on my profile.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="170"/>
@@ -88,7 +88,7 @@ I'm working toward building projects that demonstrate what I learn rather than s
 
 ---
 
-## 📈 My Goal
+## 📈 **My Goal**
 
 > **Build things that are useful, learn continuously, and become a better developer every day.**
 
@@ -96,7 +96,7 @@ I'm currently at the beginning of my journey, and this profile will evolve as I 
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 I'm always interested in meeting other students, developers, builders, and people interested in technology.
 
