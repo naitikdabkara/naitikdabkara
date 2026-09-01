@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Naitik!
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ### 💻 Student | Aspiring Software Developer | Tech Enthusiast
 
 I'm a computer science student currently building my foundation in programming and software development.
@@ -21,24 +25,30 @@ I started with **Python and MySQL** during school and am now expanding my skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Currently Learning
+### 💻 Languages & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python MySQL" />
 </p>
 
-### Exploring
+### 🌐 Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+</p>
+
+### 🤖 Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI ML" />
 </p>
 
 ---
@@ -49,7 +59,7 @@ I'm currently focused on:
 
 * Strengthening my programming fundamentals
 * Learning how real-world software is developed
-* Building my first meaningful projects
+* Building meaningful projects
 * Understanding web development
 * Exploring AI/ML
 * Participating in hackathons
@@ -61,11 +71,20 @@ I'm currently focused on:
 
 ## 🏆 Hackathons & Projects
 
-I'm at the stage where I'm actively building my portfolio through projects and hackathons.
+I'm actively building my portfolio through projects and hackathons.
 
 ### 🚧 Projects coming soon...
 
 I'm working toward building projects that demonstrate what I learn rather than simply collecting technologies on my profile.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="170"/>
+</p>
 
 ---
 
@@ -85,4 +104,6 @@ I'm always interested in meeting other students, developers, builders, and peopl
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+<p align="center">
+  ⭐ <i>Thanks for visiting my profile!</i> ⭐
+</p>
