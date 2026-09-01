@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Naitik!
 
 <p align="left">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/057/162/872/small/adorable-baby-panda-cub-eating-bamboo-on-a-tree-branch-in-a-lush-green-forest-habitat-photo.jpeg" alt="Profile Views" />
+  <img src="[https://static.vecteezy.com/system/resources/thumbnails/057/162/872/small/adorable-baby-panda-cub-eating-bamboo-on-a-tree-branch-in-a-lush-green-forest-habitat-photo.jpeg](https://media.licdn.com/dms/image/v2/D4D03AQH0bySee-xrvw/profile-displayphoto-crop_800_800/B4DaAVE.SXGkAQ-/0/1787060021432?e=1789603200&v=beta&t=bPbhOuQBw1REuzi9IFeYJVvJLXp7JwDBJDgd52B2cZI)" alt="Profile Views" />
 </p>
 
 ### 💻 Student | Aspiring Software Developer | Tech Enthusiast
