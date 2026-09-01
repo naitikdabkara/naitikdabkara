@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Naitik!
 
 <p align="left">
-  <img src="cccccc" alt="Profile hhhhhhhViews" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQH0bySee-xrvw/profile-displayphoto-crop_800_800/B4DaAVE.SXGkAQ-/0/1787060021432?e=1789603200&v=beta&t=bPbhOuQBw1REuzi9IFeYJVvJLXp7JwDBJDgd52B2cZI" alt="Profile Image Linked In" />
 </p>
 
 ### 💻 Student | Aspiring Software Developer | Tech Enthusiast
