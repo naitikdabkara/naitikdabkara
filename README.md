@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Naitik!
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/057/162/872/small/adorable-baby-panda-cub-eating-bamboo-on-a-tree-branch-in-a-lush-green-forest-habitat-photo.jpeg" alt="Profile Views" />
 </p>
 
 ### 💻 Student | Aspiring Software Developer | Tech Enthusiast
